@@ -1,0 +1,27 @@
+body {
+    font-family: Comfortaa, serif;
+    color: #0A0A0A;
+    background-color: #FFCA85;
+    text-align: center;
+}
+h1 {
+    font-family: Lora, sans-serif;
+    color: #ba2d0b;
+}
+h2 {
+    font-family: Lora, sans-serif;
+    color: #ba2d0b;
+    margin-left: 20px;
+}
+img {
+    width: 500px;
+}
+p {
+   margin: 20px;
+}
+ul {
+    list-style: none;
+}
+li {
+    margin: 20px;
+}
