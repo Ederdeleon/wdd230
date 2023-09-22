@@ -1,0 +1,37 @@
+@media (min-width:600px) { 
+    .topwords {
+        flex-direction: row;
+    }
+    header {
+        justify-content:center;
+        
+    }
+    img {
+        padding: 25px;
+    }
+    h2 {
+        text-align:left;
+        margin-left: 25px;
+        margin-right: 25px;
+    }
+    
+    .card {
+        min-width: 50%;   
+    }
+    main {
+        display: flex;
+        align-items: center;
+        align-items: stretch;
+        margin-bottom: 20px;
+        justify-content: space-around;
+    }
+    footer{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    footer p{
+        margin-right: 20px;
+    }
+    
+}
