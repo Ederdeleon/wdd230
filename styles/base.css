@@ -104,14 +104,23 @@ body, ul {
     text-decoration: none;
     color: #333;
 }
+#mode {
+	position: absolute;
+	top: 1rem;
+	right: 1rem;
+	font-size: 3rem;
+	cursor: pointer;
+}
 
 @media screen and (max-width: 600px) {
     .hamburger-button {
         display: block;
+        margin-left: 250px;
     }
 
     .menu.show {
         display: block;
+
     }
-}
     
+}
