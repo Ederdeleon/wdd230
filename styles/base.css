@@ -64,6 +64,54 @@ nav a:hover {
 .yellow {
     color: yellow;
 }
+/* Reset some default styles */
+body, ul {
+    margin: 0;
+    padding: 0;
+}
 
+/* Style the hamburger button */
+.hamburger-button {
+    display: none;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+}
 
+.bar {
+    width: 25px;
+    height: 3px;
+    background-color: #333;
+    margin: 5px 0;
+}
+
+/* Style the navigation menu */
+.menu {
+    display: none;
+}
+
+.menu ul {
+    list-style: none;
+    padding: 0;
+}
+
+.menu li {
+    margin: 10px 0;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #333;
+}
+
+@media screen and (max-width: 600px) {
+    .hamburger-button {
+        display: block;
+    }
+
+    .menu.show {
+        display: block;
+    }
+}
     
