@@ -1,0 +1,26 @@
+li {
+    list-style: none;
+}
+li a{
+    text-decoration: none;
+    color: black;
+}
+ul {
+    display: flex;
+    flex-direction: column; 
+}
+
+ul li {
+    margin-right: 20px;
+    }
+.hero-image {
+        background-image: url('path/to/your-image.jpg');
+        background-size: cover; /* Adjust to your needs */
+        background-position: center; /* Adjust to your needs */
+        height: 100vh; /* Set the height of the hero image, e.g., 100% viewport height */
+        color: white; /* Text color on top of the image */
+        text-align: center; /* Center text horizontally */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+}
