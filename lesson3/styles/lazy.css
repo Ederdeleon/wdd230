@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    background: grey;
+    animation: fade 15s;
+}
+
+@keyframes fade {
+    0% {
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+    
+}
