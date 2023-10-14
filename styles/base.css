@@ -90,6 +90,8 @@ body, ul {
     height: 3px;
     background-color: #333;
     margin: 5px 0;
+    display: block;
+
 }
 
 /* Style the navigation menu */
