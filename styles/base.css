@@ -46,6 +46,7 @@ section h2 {
 }
 .card {
     border: 1px black solid;
+    text-align: center;
 }
 .card1 {
     border: 1px black solid;
