@@ -167,7 +167,20 @@ body, ul {
 	font-family:"Great Vibes", serif;
     color:rgba(32, 32, 198, 0.784);
 }
-
+.santafe-container {
+    position: relative;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio - adjust as needed */
+  height: 0;
+  overflow: hidden;
+  margin: 50px;
+}
+.santafe-container iframe{
+    position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
 
 
 
