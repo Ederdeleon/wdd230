@@ -164,6 +164,9 @@ h2{
     font-weight: bold;
     color: #ba2d0b;
 }
+h1 {
+    font-size: 20px;
+}
 
 
 @media screen and (max-width: 600px) {
