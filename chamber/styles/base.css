@@ -29,6 +29,7 @@ ul li {
 h1 {
     text-align: center;
     font-family: Lora, sans-serif;
+    font-size: 20px;
 }
 body {
     background-color: #FFCA85;
@@ -164,9 +165,7 @@ h2{
     font-weight: bold;
     color: #ba2d0b;
 }
-h1 {
-    font-size: 20px;
-}
+
 
 
 @media screen and (max-width: 600px) {
