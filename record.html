@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Form Submission Confirmation</title>
+</head>
+<body>
+    <h1>Form Submission Confirmation</h1>
+    <p>Thank you for signing up! Here is the information you provided:</p>
+
+    <ul>
+        <li><strong>Username:</strong> <?php echo $_GET['fname']; ?></li>
+        <li><strong>Password:</strong> <?php echo $_GET['password']; ?></li>
+        <li><strong>Email:</strong> <?php echo $_GET['email']; ?></li>
+        <li><strong>Page Rating:</strong> <?php echo $_GET['r']; ?></li>
+    </ul>
+</body>
+</html>
