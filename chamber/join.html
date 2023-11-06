@@ -47,13 +47,23 @@
                 <label class="top">Phone Number* <input type="telephone" id="phone" name="phone" required></label>
                 <label class="top">Business Name* <input type="text" id="business" name="business"  required></label>
                 <div>Membership Level</div>
+                <div class="flex">
+                  <div>
                 <label class="sbs"><input type="radio" name="audience" value="np"> NP Membership</label>
                 <label class="sbs"><input type="radio" name="audience" value="Bronze">Bronze</label>
                 <label class="sbs"><input type="radio" name="audience" value="Silver">Silver</label>
                 <label class="sbs"><input type="radio" name="audience" value="Gold">Gold</label>
+                </div>
+                <div class="info">
+                  <h2>NP Membership</h2>
+                  <ul>
+                    <li>This Membership is for non profit organizations and there is no fee.</li>
+                  </ul>
+                </div>
+              </div>
                 <label class="top">Description <input  area="text" id="description" name="description" ></label>
-                <label for="timestamp">Timestamp:</label>
-                <input type="text" id="timestamp" name="timestamp" readonly>
+                
+                <input type="hidden" id="timestamp" name="timestamp" readonly>
 
                 
             </fieldset>

@@ -74,3 +74,20 @@ form label.top input:required {
 form label.top input:required:valid {
     border-left: green solid 6px;
 }
+
+.flex {
+    display:flex;
+}
+.info {
+    display:block;
+}
+
+@media screen and (max-width:600px){
+    .info {
+    display:none;
+    }
+}
+
+
+
+    
