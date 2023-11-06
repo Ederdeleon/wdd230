@@ -67,10 +67,13 @@ form input.submitBtn {
     max-width: 20rem;
 }
 
-form label.top input:required {
+:root :required {
     border-left: red solid 6px;
 }
 
-form label.top input:required:valid {
+:root :required:valid {
     border-left: green solid 6px;
+}
+:root :focus {
+    background-color:bisque
 }
