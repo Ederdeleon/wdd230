@@ -77,9 +77,14 @@ form label.top input:required:valid {
 
 .flex {
     display:flex;
+    justify-content: space-between;
 }
 .info {
     display:block;
+}
+
+h2 {
+    font-size: 12.8px;
 }
 
 @media screen and (max-width:600px){
