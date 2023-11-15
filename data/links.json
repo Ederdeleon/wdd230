@@ -4,12 +4,102 @@
         "week": "Week 1",
         "links": [
           {
-            "url":"week01/holygrail.html",
-            "title":"HG Layout"
+            "url":"week1/chamber-site-plan.html",
+            "title":"Chamber Site Plan"
+          }
+        ]
+      },
+      {
+        "week": "Week 2",
+        "links": [
+          {
+            "url":"lesson2/design.html",
+            "title":"Design"
           },
           {
-            "url":"week01/media-query.html",
-            "title":"mQueries"
+            "url":"https://codepen.io/Ederdeleon/pen/bGOKLLR",
+            "title":"CodePen"
+          },
+          {
+            "url":"lesson2/bom.html",
+            "title":"DOM"
+          }
+        ]
+      },
+      {
+        "week": "Lesson 3",
+        "links": [
+          {
+            "url":"images/smallcopy.webp",
+            "title":"WebP"
+          },
+          {
+            "url":"lesson3/lazyload.html",
+            "title":"Lazy Loading"
+          },
+          {
+            "url":"lesson3/responsive-images.html",
+            "title":"Lazy Loading"
+          }
+        ]
+      },
+      {
+        "week": "Week 04",
+        "links": [
+          {
+            "url":"chamber/index.html",
+            "title":"Chamber Home Page"
+          }
+        ]
+      },
+      {
+        "week": "Week 6",
+        "links": [
+          {
+            "url":"chamber/discover.html",
+            "title":"Chamber Discover Page"
+          }
+        ]
+      },
+      {
+        "week": "Lesson 4",
+        "links": [
+          {
+            "url":"https://codepen.io/Ederdeleon/pen/GRzpyqK?editors=1100",
+            "title":"CodePen"
+          },
+          {
+            "url":"images/Screenshot2023.png",
+            "title":"Combinator exercise"
+          },
+          {
+            "url":"lesson4/tablebuild.html",
+            "title":"Tables"
+          },
+          {
+            "url":"lesson4/form-start/index.html",
+            "title":"Forms"
+          }
+        ]
+      },
+      {
+        "week": "Lesson 5",
+        "links": [
+          {
+            "url":"https://codepen.io/Ederdeleon/pen/zYezqdY",
+            "title":"Pseudo-elements"
+          },
+          {
+            "url":"lesson5/new-ward-members.json",
+            "title":"JSON"
+          },
+          {
+            "url":"lesson5/prophets.html",
+            "title":"Fetch API"
+          },
+          {
+            "url":"lesson5/weather.html",
+            "title":"Weather API"
           }
         ]
       }
