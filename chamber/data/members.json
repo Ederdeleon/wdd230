@@ -1,0 +1,68 @@
+{
+    "companies": [
+      {
+        "name": "Tech Innovators Inc.",
+        "address": "123 Main Street, Cityville, State",
+        "phone": "+1 (555) 123-4567",
+        "website": "http://www.techinnovators.com",
+        "image": "tech_innovators_logo.png",
+        "membership_level": "Gold",
+        "additional_info": "Leading provider of cutting-edge technology solutions."
+      },
+      {
+        "name": "Green Energy Solutions Ltd.",
+        "address": "456 Oak Avenue, Greentown, State",
+        "phone": "+1 (555) 987-6543",
+        "website": "http://www.greenenergy-solutions.com",
+        "image": "green_energy_logo.png",
+        "membership_level": "Silver",
+        "additional_info": "Specializing in sustainable and renewable energy solutions."
+      },
+      {
+        "name": "Creative Designs Studio LLC",
+        "address": "789 Artistic Boulevard, Design City, State",
+        "phone": "+1 (555) 543-2109",
+        "website": "http://www.creativedesigns-studio.com",
+        "image": "creative_designs_logo.png",
+        "membership_level": "Bronze",
+        "additional_info": "Innovative design studio offering graphic and web design services."
+      },
+      {
+        "name": "Global Logistics Solutions Corp.",
+        "address": "101 Shipping Lane, Logisville, State",
+        "phone": "+1 (555) 876-5432",
+        "website": "http://www.globallogistics-solutions.com",
+        "image": "global_logistics_logo.png",
+        "membership_level": "Platinum",
+        "additional_info": "Efficient and reliable logistics services for global supply chains."
+      },
+      {
+        "name": "Health & Wellness Innovations LLC",
+        "address": "234 Wellness Street, Fitville, State",
+        "phone": "+1 (555) 345-6789",
+        "website": "http://www.healthwellness-innovations.com",
+        "image": "health_wellness_logo.png",
+        "membership_level": "Gold",
+        "additional_info": "Promoting well-being through innovative health and fitness solutions."
+      },
+      {
+        "name": "EduTech Solutions Co.",
+        "address": "567 Knowledge Avenue, Educity, State",
+        "phone": "+1 (555) 789-0123",
+        "website": "http://www.edutech-solutions.com",
+        "image": "edutech_solutions_logo.png",
+        "membership_level": "Silver",
+        "additional_info": "Transforming education through technology-driven solutions."
+      },
+      {
+        "name": "Foodie Delights Catering Services",
+        "address": "876 Gourmet Street, Foodland, State",
+        "phone": "+1 (555) 210-9876",
+        "website": "http://www.foodiedelights-catering.com",
+        "image": "foodie_delights_logo.png",
+        "membership_level": "Bronze",
+        "additional_info": "Catering services for culinary experiences that delight the taste buds."
+      }
+    ]
+  }
+  
