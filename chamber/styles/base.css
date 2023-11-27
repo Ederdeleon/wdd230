@@ -187,6 +187,8 @@ h2{
     font-weight: bold;
     color: #ba2d0b;
 }
-
+.company-card img {
+    width:100px;
+}
 
 

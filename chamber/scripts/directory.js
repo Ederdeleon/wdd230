@@ -1,24 +1,9 @@
- // Assuming you have the JSON data
- var companyData = {
-    "companies": [
-      {
-        "name": "Tech Innovators Inc.",
-        "address": "123 Main Street, Cityville, State",
-        "phone": "+1 (555) 123-4567",
-        "website": "http://www.techinnovators.com",
-        "image": "tech_innovators_logo.png",
-        "membership_level": "Gold",
-        "additional_info": "Leading provider of cutting-edge technology solutions."
-      },
-      // ... (other company entries)
-    ]
-  };
 
-  // Function to display company information
   function displayCompanies(data) {
     var companyListElement = document.getElementById('companyList');
-
+console.log(data)
     data.companies.forEach(function (company) {
+      console.log (company)
       var companyCard = document.createElement('div');
       companyCard.className = 'company-card';
 
@@ -41,6 +26,13 @@
   }
 
   // Display the company information when the page loads
-  window.onload = function () {
-    displayCompanies(companyData);
+   async function getdata (){
+    companyData= await fetch("https://raw.githubusercontent.com/Ederdeleon/wdd230/master/chamber/data/members.json")
+    data=await companyData.json()
+    console.log(data)
+
+    displayCompanies(data);
+
+
   };
+  getdata()
