@@ -166,12 +166,13 @@ h2{
     margin-bottom: 30px;
 }
 /* cards */
-.company-card {
-    border: 1px solid #ccc;
+div.company-card {
+    /* border: 1px solid #ccc; */
     padding: 10px;
     margin: 10px;
     width: 300px;
     display: inline-block;
+    /* background-color: #ba2d0b; */
   }
 @keyframes fade {
     0% {
