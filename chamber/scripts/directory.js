@@ -36,3 +36,29 @@ console.log(data)
 
   };
   getdata()
+
+  // buttons
+  document.addEventListener('DOMContentLoaded', function () {
+    const gridButton = document.getElementById('grid');
+    const listButton = document.getElementById('list');
+    const companyListContainer = document.getElementById('companyList');
+  
+    // Initial view is grid
+    let isGridView = true;
+  
+    gridButton.addEventListener('click', function () {
+      if (!isGridView) {
+        isGridView = true;
+        companyListContainer.classList.remove('list-view');
+      }
+    });
+  
+    listButton.addEventListener('click', function () {
+      if (isGridView) {
+        isGridView = false;
+        companyListContainer.classList.add('list-view');
+      }
+    });
+  });
+  
+  
