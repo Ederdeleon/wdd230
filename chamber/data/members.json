@@ -14,7 +14,7 @@
         "address": "456 Oak Avenue, Greentown, State",
         "phone": "+1 (555) 987-6543",
         "website": "http://www.greenenergy-solutions.com",
-        "image": "green_energy_logo.png",
+        "image": "https://assets.justenergy.com/wp-content/uploads/2021/07/clean-energy-solutions-illustration.jpg",
         "membership_level": "Silver",
         "additional_info": "Specializing in sustainable and renewable energy solutions."
       },
@@ -23,7 +23,7 @@
         "address": "789 Artistic Boulevard, Design City, State",
         "phone": "+1 (555) 543-2109",
         "website": "http://www.creativedesigns-studio.com",
-        "image": "creative_designs_logo.png",
+        "image": "https://images-platform.99static.com//tsxDPdURD2CSLLCWS2ESgUFDPSQ=/212x196:990x974/fit-in/500x500/99designs-contests-attachments/111/111370/attachment_111370236",
         "membership_level": "Bronze",
         "additional_info": "Innovative design studio offering graphic and web design services."
       },
@@ -32,7 +32,7 @@
         "address": "101 Shipping Lane, Logisville, State",
         "phone": "+1 (555) 876-5432",
         "website": "http://www.globallogistics-solutions.com",
-        "image": "global_logistics_logo.png",
+        "image": "data:image/jpeg;base64,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",
         "membership_level": "Platinum",
         "additional_info": "Efficient and reliable logistics services for global supply chains."
       },
@@ -41,7 +41,7 @@
         "address": "234 Wellness Street, Fitville, State",
         "phone": "+1 (555) 345-6789",
         "website": "http://www.healthwellness-innovations.com",
-        "image": "health_wellness_logo.png",
+        "image": "https://cmsv2-assets.apptegy.net/uploads/6720/file/347219/5ab53e37-c2a6-46bb-8a53-f2e8fcbddec5.jpeg",
         "membership_level": "Gold",
         "additional_info": "Promoting well-being through innovative health and fitness solutions."
       },
@@ -50,7 +50,7 @@
         "address": "567 Knowledge Avenue, Educity, State",
         "phone": "+1 (555) 789-0123",
         "website": "http://www.edutech-solutions.com",
-        "image": "edutech_solutions_logo.png",
+        "image": "https://yt3.googleusercontent.com/ytc/APkrFKZmZKI9wdywB0peVPBFNhlvyKgkmf5wuVgGbqJYPw=s900-c-k-c0x00ffffff-no-rj",
         "membership_level": "Silver",
         "additional_info": "Transforming education through technology-driven solutions."
       },
@@ -59,7 +59,7 @@
         "address": "876 Gourmet Street, Foodland, State",
         "phone": "+1 (555) 210-9876",
         "website": "http://www.foodiedelights-catering.com",
-        "image": "foodie_delights_logo.png",
+        "image": "https://static.wixstatic.com/media/503222_c19af56a3fe342d5aabb5628eef16dc0~mv2.jpg",
         "membership_level": "Bronze",
         "additional_info": "Catering services for culinary experiences that delight the taste buds."
       }
