@@ -1,4 +1,4 @@
-/* @media screen and (max-width: 600px) { */
+/* @media screen and (max-width: 600px) { 
     .hamburger-button {
         display: block;
         margin: 0 auto;
@@ -10,7 +10,7 @@
 
     
     
-/* } */
+} */
 li {
     list-style: none;
 }
@@ -81,11 +81,12 @@ h2{
 }
 /* Style the hamburger button */
 .hamburger-button {
-    display: none;
+     display: block; 
     background: none;
     border: none;
     cursor: pointer;
     padding: 10px;
+    margin: auto;
 }
 
 .bar {
@@ -205,4 +206,25 @@ div.company-card {
 .buttons button {
 	padding: 1rem;
 	font-weight: 700;
+}
+.list-view {
+    display:flex;
+    flex-direction: column;
+    width: 100%;
+}
+.list-view img {
+    display:none;
+}
+.list-view *{
+    display: inline;
+    margin-right: 10px;
+}
+.list-view div {
+    width: 100%;
+}
+.list-view > :nth-child(even){
+    background-color: #ba2d0b;
+}
+.list-view h2 {
+    display: block;
 }
